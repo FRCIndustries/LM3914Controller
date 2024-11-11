@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- Create an [Issue](https://github.com/yourusername/LM3914/issues)
+- Create an [Issue](https://github.com/FRCIndustries/LM3914Controller/issues)
 - Read our [Troubleshooting Guide](docs/troubleshooting.md)
 - Check the [FAQ](docs/faq.md)
 
@@ -191,6 +191,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ ] Add FFT-based spectrum analyzer
 - [ ] Support for other I2C expanders
-- [ ] Web configuration interface
-- [ ] MIDI control support
-- [ ] Mobile app control
